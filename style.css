@@ -1,0 +1,25 @@
+*{
+    font-family: inter;
+}
+body{background-color: #2A5D5A;}
+.h1{
+    background-color:#311313;
+    width:400px;
+    height:50px;
+    color: white;
+    text-align: center;
+margin:0 auto;
+}
+.div1{
+background-color: black;
+width: 800px;
+height: 500px;
+border: 20px solid #bb0f0f;
+margin: 0 auto;
+
+}
+.div2{background-color: #31b6ad;
+width: 700px;
+height: 225px;
+margin: 0  auto;
+}
